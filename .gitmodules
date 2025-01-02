@@ -1,0 +1,3 @@
+[submodule "bladerf-startup"]
+	path = bladerf-startup
+	url = https://github.com/andrew153d/bladerf-startup.git
