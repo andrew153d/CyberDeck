@@ -1,3 +1,12 @@
 [submodule "bladerf-startup"]
 	path = bladerf-startup
 	url = https://github.com/andrew153d/bladerf-startup.git
+[submodule "DroneTools/samples2djidroneid"]
+	path = DroneTools/samples2djidroneid
+	url = https://github.com/anarkiwi/samples2djidroneid.git
+[submodule "DroneTools/DroneSecurity"]
+	path = DroneTools/DroneSecurity
+	url = https://github.com/RUB-SysSec/DroneSecurity.git
+[submodule "GPS/gps-sdr-sim"]
+	path = GPS/gps-sdr-sim
+	url = https://github.com/osqzss/gps-sdr-sim.git
